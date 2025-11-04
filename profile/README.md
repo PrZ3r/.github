@@ -65,7 +65,7 @@ To build a sustainable, interoperable metadata infrastructure for the moving-ima
 ### Contact
 
 For collaboration, data contributions, or industry integration discussions:  
-**Steve LLamb** — [GitHub](https://github.com/SteveLLamb) · [LinkedIn](https://www.linkedin.com/in/stevellambs/)  
+**Steve LLamb** — [GitHub](https://github.com/SteveLLamb) · [LinkedIn](https://www.linkedin.com/in/lluxoperon/)  
 **PrZ3** — [GitHub](https://github.com/PrZ3r) · [LinkedIn](https://www.linkedin.com/company/prz3/)
 
 ---
