@@ -1,5 +1,15 @@
 # PrZ3
 
+<p align="center">
+  <img src="../branding/logos/PrZ3-Logo-blue.svg" width="260" alt="PrZ3">
+</p>
+
+<p align="center">
+  <a href="https://msrbot.io"><strong>MSRBot.io</strong></a> •
+  <a href="https://github.com/apps/prz3-unit"><strong>PrZ3 Unit</strong></a> •
+  <a href="https://github.com/PrZ3r/MSRBot.io"><strong>MSRBot.io Source</strong></a>
+</p>
+
 **PrZ3** is an open-source ecosystem dedicated to preserving, automating, and connecting global media technology standards.
 
 Born from the [MSRBot.io](https://msrbot.io) initiative, PrZ3 builds and maintains a distributed registry of structured metadata across standards bodies, publishers, and archives — providing automation tools, schema validators, and reference indexes for the broader media technology community.
@@ -19,6 +29,8 @@ Born from the [MSRBot.io](https://msrbot.io) initiative, PrZ3 builds and maintai
 ---
 
 ### The Resident Custodian — *PrZ3 Unit*
+
+<img src="../branding/icons/MSRBot-PrZ3-blue.svg" width="140" alt="PrZ3 Unit">
 
 > *Designation:* `MSRBot-PrZ3 Unit`  
 > *Role:* Metadata Integrity and Registry Guardian  
@@ -62,6 +74,23 @@ To build a sustainable, interoperable metadata infrastructure for the moving-ima
 
 ---
 
+### Branding
+
+Official PrZ3 / MSRBot visual assets:
+
+- [PrZ3 Logo](../branding/logos/PrZ3-Logo-blue.svg)
+- [MSRBot.io Logo](../branding/logos/MSRBot-Logo-blue.svg)
+- [PrZ3 Unit Icon](../branding/icons/MSRBot-PrZ3-blue.svg)
+
+Canonical typography and mascot guidance:
+
+- [`/branding/typography.md`](../branding/typography.md)
+- [`/branding/brandmarks.md`](../branding/brandmarks.md)
+
+These assets are the authoritative versions used across repositories, automation, and documentation.
+
+---
+
 ### Contact
 
 For collaboration, data contributions, or industry integration discussions:  
@@ -70,4 +99,4 @@ For collaboration, data contributions, or industry integration discussions:
 
 ---
 
-> *“Normalize chaos. Chaos is everywhere.” — PrZ3 Unit, v3-Gen*
+> *“Normalize chaos. Chaos is everywhere.” — PrZ3 Unit, v3-Gen*</file>
