@@ -17,6 +17,6 @@ Usage guidelines:
 
 Assets:
 - Icons
-  - /branding/icons/MSRBot-PrZ3-blue.svg — Primary Parsey / PrZ3 Unit icon (SVG)
-  - /branding/icons/MSRBot-PrZ3-blue-favicon.svg — Simplified favicon version
-  - /branding/icons/GHBot-PrZ3-black.png — GitHub bot / org avatar (used by prz3-unit[bot])
+  - [`MSRBot-PrZ3-blue.svg`](./icons/MSRBot-PrZ3-blue.svg) — Primary Parsey / PrZ3 Unit icon (SVG)
+  - [`MSRBot-PrZ3-blue-favicon.svg`](./icons/MSRBot-PrZ3-blue-favicon.svg) — Simplified favicon version
+  - [`GHBot-PrZ3-black.png`](./icons/GHBot-PrZ3-black.png) — GitHub bot / org avatar (used by prz3-unit[bot])
