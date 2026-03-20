@@ -5,11 +5,11 @@ Primary typeface: **Avenir Next**
 ## Logo usage
 
 PrZ3
-- Font: Heiti TC Normal
+- Font: Heiti TC
 - Weight: Normal
 
 MSRBot.io
-- Font: Heiti TC Normal
+- Font: Heiti TC
 - Weight: Normal
 
 Logos are stored as outlined SVG to avoid font dependency. 
