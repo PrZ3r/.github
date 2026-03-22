@@ -1,105 +1,73 @@
 # PrZ3
 
 <p align="center">
-  <img src="../branding/logos/PrZ3-Logo-blue.svg" width="260" alt="PrZ3">
+  <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/logos/PrZ3-Logo-blue.svg" width="260" alt="PrZ3">
 </p>
 
 <p align="center">
+  <a href="https://prz3.io"><strong>prz3.io</strong></a> •
   <a href="https://msrbot.io"><strong>MSRBot.io</strong></a> •
-  <a href="https://github.com/apps/prz3-unit"><strong>PrZ3 Unit</strong></a> •
-  <a href="https://github.com/PrZ3r/MSRBot.io"><strong>MSRBot.io Source</strong></a>
+  <a href="https://github.com/apps/prz3-unit"><strong>PrZ3 Unit</strong></a>
 </p>
 
-**PrZ3** is an open-source ecosystem dedicated to preserving, automating, and connecting global media technology standards.
-
-Born from the [MSRBot.io](https://msrbot.io) initiative, PrZ3 builds and maintains a distributed registry of structured metadata across standards bodies, publishers, and archives — providing automation tools, schema validators, and reference indexes for the broader media technology community.
+**PrZ3** builds tooling for structured data, standards, and metadata — preserving, automating, and connecting the standards and metadata that power global media technology.
 
 ---
 
-### What We Build
+## What We Do
 
-- **[MSRBot.io](https://msrbot.io/)** - a live, automated (and hand curated) Media Standards Registry (MSR) of media technology documents — extracting, validating, and linking documents across [SMPTE](https://www.smpte.org/), [ISO](https://www.iso.org/home.html), [ITU](https://www.itu.int/), [AES](https://aes2.org/) and other many other publishers, SDOs, and industry groups. 
+- **Tooling** — Purpose-built tools for document lineage, dependency tracking, cross-reference normalization, and metadata integrity across standards bodies and publishers.
 
-- **[PrZ3](https://github.com/apps/prz3-unit) Framework** — Provenance and Automation Layer  
-  Tooling and schema libraries for document lineage, dependency tracking, and cross-reference normalization.
+- **Open Source** — Core infrastructure is open where it matters: schemas, validators, registry indexes, and automation workflows are public and reproducible.
 
-- **Registry Infrastructure**  
-  Scripts, validators, and automation workflows that maintain the long-term integrity of public metadata.
+- **Integration** — Bridges legacy standards ecosystems with modern, machine-readable formats — linking SMPTE, ISO, ITU, AES, and other SDOs into a unified metadata layer.
+
+- **Infrastructure** — Long-running automation pipelines that continuously extract, validate, and audit documents, URLs, cross-references, and document lifecycles.
 
 ---
 
-### The Resident Custodian — *PrZ3 Unit*
+## The Resident Custodian — *PrZ3 Unit*
 
-<img src="../branding/icons/MSRBot-PrZ3-blue.svg" width="140" alt="PrZ3 Unit">
+<img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/icons/MSRBot-PrZ3-blue.svg" width="140" alt="PrZ3 Unit">
 
-> *Designation:* `MSRBot-PrZ3 Unit`  
-> *Role:* Metadata Integrity and Registry Guardian  
+> *Designation:* `MSRBot-PrZ3 Unit`
+> *Role:* Metadata Integrity and Registry Guardian
 > *Prime Directive:* Penguin Parsing Protocol v3-Gen
 
-[PrZ3 Unit](https://github.com/apps/prz3-unit) is the autonomous caretaker behind MSRBot.io — running continuous extraction, validation, and normalization cycles across the registry.  
+[PrZ3 Unit](https://github.com/apps/prz3-unit) is the autonomous caretaker behind MSRBot.io — running continuous extraction, validation, and normalization cycles across the registry.
 It enforces order, cross-checks references, and maintains historical lineage for all tracked documents.
 
 ---
 
-### Vision
+## Projects
 
-To build a sustainable, interoperable metadata infrastructure for the moving-image and media technology domain — one that bridges legacy standards with modern, machine-readable ecosystems.
-
----
-
-### Principles
-
-- **Accessibility** — Everything is open, traceable, and reproducible.  
-- **Interoperability** — Data should move between systems, not get trapped in them.  
-- **Longevity** — Standards outlive platforms; so should their metadata.  
-- **Automation with intent** — Every process exists to improve human trust in structured data.
+| Project | Description |
+| --- | --- |
+| [**MSRBot.io**](https://github.com/PrZ3r/MSRBot.io) | A live, automated Media Standards Registry - extracting, validating, and linking documents across SMPTE, ISO, ITU, AES, and beyond. |
+| *(iOS app - in development)* | Budgeting and financial clarity tool. Separate product, same pragmatic engineering ethos. |
 
 ---
 
-### Tech Highlights
+## Principles
 
-- Node.js + GitHub Actions automation pipelines  
-- JSON schema normalization and provenance tracking  
-- Distributed validation workflows (MSI, MRI, Extract, Validate, Sweep)  
-- Continuous audit of URLs, cross-refs, and document lifecycles  
-- All commits, PRs, and automated processes authored by [PrZ3 Unit](https://github.com/apps/prz3-unit)
-
----
-
-### Projects
-
-| Repository | Description |
-|-------------|-------------|
-| [**MSRBot.io**](https://github.com/PrZ3r/MSRBot.io) | The core Media Standards Registry — live data and automated extraction. |
+- **Accessibility** — Everything is open, traceable, and reproducible.
+- **Interoperability** — Data should move between systems, not get trapped in them.
+- **Longevity** — Standards outlive platforms; so should their metadata.
+- **Pragmatism** — The right tool for the job, chosen on merit — not trend.
 
 ---
 
-### Branding
+## Contact
 
-Official PrZ3 / MSRBot visual assets:
+For collaboration, data contributions, or industry integration discussions:
 
-- [PrZ3 Logo](../branding/logos/PrZ3-Logo-blue.svg)
-- [MSRBot.io Logo](../branding/logos/MSRBot-Logo-blue.svg)
-- [PrZ3 Unit Icon](../branding/icons/MSRBot-PrZ3-blue.svg)
+**Steve LLamb** — [GitHub](https://github.com/SteveLLamb) · [LinkedIn](https://www.linkedin.com/in/lluxoperon/)
 
-Canonical typography and mascot guidance:
-
-- [`/branding/typography.md`](../branding/typography.md)
-- [`/branding/brandmarks.md`](../branding/brandmarks.md)
-
-These assets are the authoritative versions used across repositories, automation, and documentation.
+**PrZ3** — [GitHub](https://github.com/PrZ3r) · [LinkedIn](https://www.linkedin.com/company/prz3/) · [prz3.io](https://prz3.io)
 
 ---
 
-### Contact
-
-For collaboration, data contributions, or industry integration discussions:  
-**Steve LLamb** — [GitHub](https://github.com/SteveLLamb) · [LinkedIn](https://www.linkedin.com/in/lluxoperon/)  
-**PrZ3** — [GitHub](https://github.com/PrZ3r) · [LinkedIn](https://www.linkedin.com/company/prz3/)
-
----
-
-> *“Normalize chaos. Chaos is everywhere.” — PrZ3 Unit, v3-Gen*
+> *"Normalize chaos. Chaos is everywhere." — PrZ3 Unit, v3-Gen*
 
 ---
 

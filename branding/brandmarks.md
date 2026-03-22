@@ -19,6 +19,6 @@ Usage guidelines:
 
 | Asset | Preview |
 |------|---------|
-| [`MSRBot-PrZ3-blue.svg`](./icons/MSRBot-PrZ3-blue.svg) — Primary Parsey / PrZ3 Unit icon (SVG) | <img src="./icons/MSRBot-PrZ3-blue.svg" height="25" alt="Parsey Icon"> |
-| [`MSRBot-PrZ3-blue-favicon.svg`](./icons/MSRBot-PrZ3-blue-favicon.svg) — Simplified favicon version | <img src="./icons/MSRBot-PrZ3-blue-favicon.svg" height="25" alt="Parsey Favicon"> |
-| [`GHBot-PrZ3-black.png`](./icons/GHBot-PrZ3-black.png) — GitHub bot / org avatar (used by prz3-unit[bot]) | <img src="./icons/GHBot-PrZ3-black.png" height="25" alt="GHBot Avatar"> |
+| [`MSRBot-PrZ3-blue.svg`](./icons/MSRBot-PrZ3-blue.svg) — Primary Parsey / PrZ3 Unit icon (SVG) | <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/icons/MSRBot-PrZ3-blue.svg" height="25" alt="Parsey Icon"> |
+| [`MSRBot-PrZ3-blue-favicon.svg`](./icons/MSRBot-PrZ3-blue-favicon.svg) — Simplified favicon version | <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/icons/MSRBot-PrZ3-blue-favicon.svg" height="25" alt="Parsey Favicon"> |
+| [`GHBot-PrZ3-black.png`](./icons/GHBot-PrZ3-black.png) — GitHub bot / org avatar (used by prz3-unit[bot]) | <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/icons/GHBot-PrZ3-black.png" height="25" alt="GHBot Avatar"> |
