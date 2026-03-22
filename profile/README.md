@@ -10,7 +10,7 @@
   <a href="https://github.com/apps/prz3-unit"><strong>PrZ3 Unit</strong></a>
 </p>
 
-**PrZ3** builds tooling for structured data, standards, and metadata — preserving, automating, and connecting the standards and metadata that power global media technology.
+**PrZ3** builds practical tools for real problems. Open where possible, pragmatic always — built to work, and engineered to be preserved.
 
 ---
 
@@ -44,7 +44,7 @@ It enforces order, cross-checks references, and maintains historical lineage for
 | Project | Description |
 | --- | --- |
 | [**MSRBot.io**](https://github.com/PrZ3r/MSRBot.io) | A live, automated Media Standards Registry - extracting, validating, and linking documents across SMPTE, ISO, ITU, AES, and beyond. |
-| *(iOS app - in development)* | Budgeting and financial clarity tool. Separate product, same pragmatic engineering ethos. |
+| cashPlans.io | Budgeting and financial clarity tool. Separate product, same pragmatic engineering ethos. *(iOS app - in development)*|
 
 ---
 
