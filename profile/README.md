@@ -99,4 +99,8 @@ For collaboration, data contributions, or industry integration discussions:
 
 ---
 
-> *“Normalize chaos. Chaos is everywhere.” — PrZ3 Unit, v3-Gen*</file>
+> *“Normalize chaos. Chaos is everywhere.” — PrZ3 Unit, v3-Gen*
+
+---
+
+Copyright © 2026 PrZ3 LLC (d/b/a PrZ3). All rights reserved.
