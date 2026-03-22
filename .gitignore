@@ -1,0 +1,24 @@
+# dependencies
+node_modules/
+
+# agents
+agents/
+.claude
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
+.env
+.env*.local
+
+# typescript
+*.tsbuildinfo
+
+# generated native folders
+/ios
+/android
+
+# source reference files (not for repo)
+/_source/
