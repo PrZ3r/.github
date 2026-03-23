@@ -10,9 +10,7 @@
   <a href="https://github.com/apps/prz3-unit"><strong>PrZ3 Unit</strong></a>
 </p>
 
-**PrZ3** builds practical tools for real problems. Open where possible, pragmatic always — engineered to be preserved.
-
-PrZ3 is a technology company focused on building practical tooling for organizations that work with structured data, standards, and metadata. We use whatever technology gets the job done — and contribute back to open source when it makes sense.
+**PrZ3** is a technology company focused on building practical tooling for organizations that work with structured data, standards, and metadata. We use whatever technology gets the job done — and contribute back to open source when it makes sense.
 
 Our work spans automation pipelines, data normalization, schema validation, and provenance tracking — built for developers, standards organizations, and anyone who needs reliable, machine-readable infrastructure around their content and processes.
 
