@@ -21,13 +21,22 @@ Our work spans automation pipelines, data normalization, schema validation, and 
 
 ## What We Do
 
-- **Tooling** — Purpose-built tools for document lineage, dependency tracking, cross-reference normalization, and metadata integrity across standards bodies and publishers.
+- **Tooling** — Purpose-built automation and data tools, designed to solve real problems without unnecessary complexity.
 
-- **Open Source** — Core infrastructure is open where it matters: schemas, validators, registry indexes, and automation workflows are public and reproducible.
+- **Open Source** — We build on open source and contribute back where our work has broader value where it matters: schemas, validators, indexes, and automation workflows are public and reproducible.
 
-- **Integration** — Bridges legacy standards ecosystems with modern, machine-readable formats — linking SMPTE, ISO, ITU, AES, and other SDOs into a unified metadata layer.
+- **Integration** — Connecting data, systems, and workflows across organizations, bridging legacy ecosystems with modern, machine-readable formats into a unified metadata layer.
 
-- **Infrastructure** — Long-running automation pipelines that continuously extract, validate, and audit documents, URLs, cross-references, and document lifecycles.
+- **Infrastructure** — Long-running automation pipelines and registries that keep data accurate, linked, and auditable over time.
+
+---
+
+## Principles
+
+- **Accessibility** — Everything is open, traceable, and reproducible.
+- **Interoperability** — Data should move between systems, not get trapped in them.
+- **Longevity** — Data and documents outlive platforms; so should their metadata.
+- **Pragmatism** — The right tool for the job, chosen on merit — not trend. Build only what needs to be built.
 
 ---
 
@@ -35,9 +44,9 @@ Our work spans automation pipelines, data normalization, schema validation, and 
 
 <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/icons/MSRBot-PrZ3-blue.svg" width="140" alt="PrZ3 Unit">
 
-> *Designation:* `MSRBot-PrZ3 Unit`
-> *Role:* Metadata Integrity and Registry Guardian
-> *Prime Directive:* Penguin Parsing Protocol v3-Gen
+> *Designation:* `MSRBot-PrZ3 Unit`  
+> *Role:* Metadata Integrity and Registry Guardian  
+> *Prime Directive:* Penguin Parsing Protocol v3-Gen  
 
 [PrZ3 Unit](https://github.com/apps/prz3-unit) is the autonomous caretaker behind MSRBot.io — running continuous extraction, validation, and normalization cycles across the registry.
 It enforces order, cross-checks references, and maintains historical lineage for all tracked documents.
@@ -48,17 +57,8 @@ It enforces order, cross-checks references, and maintains historical lineage for
 
 | Project | Description |
 | --- | --- |
-| [**MSRBot.io**](https://github.com/PrZ3r/MSRBot.io) | A live, automated Media Standards Registry - extracting, validating, and linking documents across SMPTE, ISO, ITU, AES, and beyond. |
+| [**MSRBot.io**](https://github.com/PrZ3r/MSRBot.io) | A live, automated Media Standards Registry — extracting, validating, and linking documents across SMPTE, ISO, ITU, AES, and many other standards bodies. Our flagship project in the media technology space. |
 | cashPlans.io | Budgeting and financial clarity tool. Separate product, same pragmatic engineering ethos. *(iOS app - in development)*|
-
----
-
-## Principles
-
-- **Accessibility** — Everything is open, traceable, and reproducible.
-- **Interoperability** — Data should move between systems, not get trapped in them.
-- **Longevity** — Standards outlive platforms; so should their metadata.
-- **Pragmatism** — The right tool for the job, chosen on merit — not trend.
 
 ---
 
