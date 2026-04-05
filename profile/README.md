@@ -8,6 +8,7 @@
   <a href="https://prz3.io"><strong>prz3.io</strong></a> •
   <a href="https://msrbot.io"><strong>MSRBot.io</strong></a> •
   <a href="https://cashplans.io"><strong>cashPlans.io</strong></a> •
+  <a href="https://50blind.app"><strong>50Blind.app</strong></a> •
   <a href="https://github.com/apps/prz3-unit"><strong>PrZ3 Unit</strong></a>
 </p>
 
@@ -58,6 +59,7 @@ It enforces order, cross-checks references, and maintains historical lineage for
 | --- | --- |
 | [**MSRBot.io**](https://github.com/PrZ3r/MSRBot.io) | A live, automated Media Standards Registry — extracting, validating, and linking documents across SMPTE, ISO, ITU, AES, and many other standards bodies. Our flagship project in the media technology space. |
 | [**cashPlans.io**](https://cashplans.io) | A flight simulator for your money. Forward-looking personal finance app focused on long-term scenario modeling. *(iOS app — in development)* |
+| [**50Blind.app**](https://50blind.app) | A strategic card game born from a dream. Target: 50. Nothing is certain until the flip. *(iOS app, and other locations - in development)*|
 
 ---
 
