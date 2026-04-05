@@ -59,7 +59,7 @@ It enforces order, cross-checks references, and maintains historical lineage for
 | --- | --- |
 | [**MSRBot.io**](https://github.com/PrZ3r/MSRBot.io) | A live, automated Media Standards Registry — extracting, validating, and linking documents across SMPTE, ISO, ITU, AES, and many other standards bodies. Our flagship project in the media technology space. |
 | [**cashPlans.io**](https://cashplans.io) | A flight simulator for your money. Forward-looking personal finance app focused on long-term scenario modeling. *(iOS app — in development)* |
-| [**50Blind.app**](https://50blind.app) | A strategic card game born from a dream. Target: 50. Nothing is certain until the flip. *(iOS app, and other locations - in development)*|
+| [**50Blind.app**](https://50blind.app) | A strategic, multi mode card game. Target: 50. Nothing is certain until the flip. *(iOS app, and other locations - in development)*|
 
 ---
 
