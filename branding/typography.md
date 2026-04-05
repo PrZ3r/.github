@@ -20,7 +20,8 @@ Primary logo files stored in this repository:
 
 | Asset | Preview |
 |------|---------|
-| [`MSRBot-Logo-blue.svg`](./logos/MSRBot-Logo-blue.svg) — MSRBot.io primary logo | <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/logos/MSRBot-Logo-blue.svg" height="25" alt="MSRBot Logo"> |
+| [`MSRBot-Logo-blue.svg`](./logos/MSRBot-Logo-blue.svg) — MSRBot.io primary logo | <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/logos/MSRBot-Logo-blue.svg" height="25" alt="MSRBot.io Logo"> |
+| [`cashPlans-io.svg`](./logos/cashPlans-io.svg) — cashPlans.io primary logo | <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/logos/cashPlans-io.svg" height="25" alt="cashPlans.io Logo"> |
 | [`PrZ3-Logo-blue.svg`](./logos/PrZ3-Logo-blue.svg) — PrZ3 organization logo | <img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/logos/PrZ3-Logo-blue.svg" height="25" alt="PrZ3 Logo"> |
 
 All logo assets are exported with text converted to outlines to eliminate font dependencies.
