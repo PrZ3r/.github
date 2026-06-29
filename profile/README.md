@@ -42,9 +42,9 @@ Our work spans automation pipelines, data normalization, schema validation, and 
 
 ## The Resident Custodian — *PrZ3 Unit*
 
-<img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/icons/MSRBot-PrZ3-blue.svg" width="140" alt="PrZ3 Unit">
+<img src="https://raw.githubusercontent.com/PrZ3r/.github/main/branding/icons/PrZ3-blue_full.svg" width="140" alt="PrZ3 Unit">
 
-> *Designation:* `MSRBot-PrZ3 Unit`  
+> *Designation:* `PrZ3 Unit`  
 > *Role:* Metadata Integrity and Registry Guardian  
 > *Prime Directive:* Penguin Parsing Protocol v3-Gen  
 
